@@ -1,0 +1,19 @@
+<resources>
+  <string name="app_name">ClickableTextView</string>
+
+  <string name="test_string_1">With setMovementMethod -> Created by Joielechong (www.rilixtech.com)</string>
+
+  <string name="test_string_2">With setMovementMethod and html code -> Created by <b>Joielechong</b> (<a href="http://www.rilixtech.com">rilixtech.com</a>)</string>
+
+  <string name="test_string_3">with android:autoLink="all" -> Created by Joielechong (www.rilixtech.com)</string>
+
+  <string name="test_string_4">with android:autoLink="all" and html code -> Created by <b>Joielechong</b> (<a href="http://www.rilixtech.com">rilixtech.com</a>)</string>
+
+  <string name="test_string_5">with android:linksClickable="true" -> Created by Joielechong (www.rilixtech.com)</string>
+
+  <string name="test_string_6">with android:linksClickable="true" and html code -> Created by <b>Joielechong</b> (<a href="http://www.rilixtech.com">rilixtech.com</a>)</string>
+
+  <string name="test_string_7">with android:clickable="true" and android:linksClickable="true" -> Created by Joielechong (www.rilixtech.com)</string>
+
+  <string name="test_string_8">with android:clickable="true" and android:linksClickable="true" and html code -> Created by <b>Joielechong</b> (<a href="http://www.rilixtech.com">rilixtech.com</a>)</string>
+</resources>
